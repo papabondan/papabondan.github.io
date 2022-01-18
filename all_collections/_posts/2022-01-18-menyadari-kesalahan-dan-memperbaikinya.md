@@ -17,7 +17,7 @@ Jika kamu menolak bisa jadi keburukan akan menimpa. Tapi janganlah menunggu hal 
 Ingatlah juga selalu kabar dari Rasulullah Muhammad Sholallohu 'alayhi wasallam dibawah ini;
 
 **عَنْ أَبِي ذَرّ جُنْدُبْ بْنِ جُنَادَةَ وَأَبِي عَبْدِ الرَّحْمَنِ مُعَاذ بْن جَبَلٍ رَضِيَ اللهُ عَنْهُمَا عَنْ رَسُوْلِ اللهِ صلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ
-اِتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ  [رواه الترمذي وقال حديث حسن وفي بعض النسخ حسن صحيح]
+اِتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ  [رواه الترمذي وقال حديث حسن وفي بعض النسخ حسن صحيح]**
 
 Terjemah hadits:
 >**Dari Abu Zar, Jundub bin Junadah dan Abu Abdurrahman, dan Mu’az bin Jabal radhiallahuanhuma dari Rasulullah shallallahu 'alaihi wa sallam beliau bersabda:
