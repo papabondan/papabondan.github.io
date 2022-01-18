@@ -1,0 +1,28 @@
+title: Bondan Murdani Soleh
+markdown: kramdown
+url: ""
+baseurl: "/"
+
+# for atom feed
+author:
+  name: Bondan Murdani Soleh
+  email: murdani.bondan.bm@gmail.com
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
