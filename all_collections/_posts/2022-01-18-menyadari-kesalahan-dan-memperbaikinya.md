@@ -8,7 +8,7 @@ categories: ["catatan"]
 ## Menyadari Kesalahan
 Wahai anakku setiap orang pasti mempunyai kesalahan, dengarlah dengan baik (resapi dan laksanakan) nasihat kebenaran agar kita tetap dalam jalan yang benar.
 
-Nasihat itu bentuknya macam-maca, sesegera mungkin kamu bisa menyadarinya. Walaupun terkadang menyayat hati, letakkan lah egomu untuk memenuhi panggilan kebenaran.
+Nasihat itu bentuknya macam-macam, sesegera mungkin kamu bisa menyadarinya. Walaupun terkadang menyayat hati, letakkan lah egomu untuk memenuhi panggilan kebenaran.
 
 Jika kamu menolak bisa jadi keburukan akan menimpa. Tapi janganlah menunggu hal semacam itu. Karena siapa yang akan menanam dia akan menuainya.
 
