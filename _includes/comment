@@ -1,0 +1,8 @@
+<script src="https://utteranc.es/client.js"
+        repo="papabondan/widgetcomment"
+        issue-term="pathname"
+        label="comment"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
