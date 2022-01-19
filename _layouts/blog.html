@@ -8,20 +8,21 @@
       <section class="articles">
                 
         {% for post in site.posts %}
-       {% for post in paginator.posts %}
+       
         <article class="article">
-          
+          {% for post in paginator.posts %}
           <h2 class="article-title">
             <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
           </h2>
           <small class="date">{{post.date | date_to_string}}</small>
           <div class="categories">
+            {% endfor %}
             {% for c in post.categories %}
             <a href="#!" data-base-url="{{site.baseurl}}" class="category"
               >{{c}}</a
             >
            
-          </div> {% endfor %}
+          </div> 
           {% endfor %}
         </article>
         {%endfor%} 
