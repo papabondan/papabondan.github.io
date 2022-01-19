@@ -16,6 +16,7 @@ plugins:
   - jekyll-paginate
   
 paginate: 3
+paginate_path: /page:num/
   
 
 collections_dir: all_collections
