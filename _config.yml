@@ -28,6 +28,6 @@ defaults:
       permalink: /:title/
       exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 
-paginate: 2
+paginate: 4
 paginate_path: /page:num/
       
