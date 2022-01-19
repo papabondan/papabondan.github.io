@@ -5,11 +5,10 @@
     <main>
       {% include header.html %} {% include bio.html %}
       <section class="articles">
-        
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
         <article class="article">
           <h2 class="article-title">
-            <a href="{{post.url}}"> {{post.title}} </a>
+            <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
           </h2>
           <small class="date">{{post.date | date_to_string}}</small>
           <div class="categories">
@@ -21,12 +20,7 @@
           </div>
         </article>
         {%endfor%}
-        
-        <!-- pagination -->
-
-        
       </section>
-      {% include pagination.html %}
       {% include footer.html %}
     </main>
     {% include category-modal.html%}
