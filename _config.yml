@@ -15,6 +15,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   
+paginate: 3
+  
 
 collections_dir: all_collections
 collections:
