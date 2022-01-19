@@ -25,5 +25,5 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
-      permalink: /:title/
+      permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
