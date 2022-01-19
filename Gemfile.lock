@@ -91,6 +91,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-paginate
   jemoji
 
 BUNDLED WITH
