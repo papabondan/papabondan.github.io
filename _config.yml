@@ -27,7 +27,7 @@ defaults:
       layout: "post"
       permalink: /:title/
       exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
-plugins: [jekyll-paginate]
-paginate: 3
+
+paginate: 2
 paginate_path: /page:num/
       
