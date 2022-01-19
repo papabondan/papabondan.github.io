@@ -4,8 +4,10 @@
   <body>
     <main>
       {% include header.html %} {% include bio.html %}
-      {% for post in paginator.posts %}
+      
       <section class="articles">
+        {% for post in paginator.posts %}
+        
         {% for post in site.posts %}
         <article class="article">
           <h2 class="article-title">
@@ -20,9 +22,9 @@
             {% endfor %}
           </div>
         </article>
-        {%endfor%}
+        {%endfor%} {% endfor %}
       </section>
-      {% endfor %}
+     
       
       <!-- pagination -->
 {% if paginator.total_pages > 1 %}
