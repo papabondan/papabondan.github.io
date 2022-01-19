@@ -15,7 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   
-paginate: 3
+paginate: 1
 paginate_path: /page/:num/
   
 
