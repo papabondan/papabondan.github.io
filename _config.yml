@@ -23,7 +23,7 @@ collections:
 defaults:
   - scope:
       path: "_posts"
-      values:
-      layout: ""
+    values:
+      layout: "post"
       permalink: /:title/
-      exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
