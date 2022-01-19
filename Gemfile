@@ -5,4 +5,4 @@ gem "jemoji"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
-gem "jekyll-paginate", "~> 1.1"
+gem "jekyll-paginate", 
