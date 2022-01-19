@@ -24,9 +24,6 @@ defaults:
   - scope:
       path: "_posts"
       values:
-      layout: "post"
+      layout: ""
       permalink: /:title/
       exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
-
-
-      
