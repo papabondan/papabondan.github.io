@@ -15,8 +15,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   
-paginate: 1
-paginate_path: /page/:num/
+paginate: 2
+paginate_path: /page:num/
   
 
 collections_dir: all_collections
