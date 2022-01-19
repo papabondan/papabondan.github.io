@@ -6,8 +6,6 @@
       {% include header.html %} {% include bio.html %}
       
       <section class="articles">
-        
-        
                 
         {% for post in site.posts %}
        
@@ -20,14 +18,12 @@
           <div class="categories">
             
             {% for c in post.categories %}
-            <a href="#!" data-base-url="{{site.baseurl}}" class="category"
-              >{{c}}</a
-            >
-           
+            <a href="#!" data-base-url="{{site.baseurl}}" class="category">{{c}}</a>
+             {%endfor%}
           </div> 
-          {% endfor %}
+          
         </article>
-        {%endfor%} 
+       {% endfor %}
       </section>
       
       
