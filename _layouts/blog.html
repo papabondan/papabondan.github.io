@@ -5,16 +5,6 @@
     <main>
       {% include header.html %}{% include nav.html %}{% include bio.html %}
       <section class="articles">
-        
-            {% for post in paginator.posts %}
-            <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-            <p class="author">
-              <span class="date">{{ post.date }}</span>
-            </p>
-            <div class="content">
-              {{ post.content }}
-            </div>
-            {% endfor %}
         {% for post in paginator.posts %}
         <article class="article">
           <h2 class="article-title">
