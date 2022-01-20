@@ -1,5 +1,5 @@
 <nav>
-	{% for item in site.data.nav %}
+	{% for item in site.data.author.nav %}
 		{% if item.target %}
 			<a href="#!" onclick="openLink('{{site.baseurl}}/{{item.url}}')">{{item.title}}</a>
 		{% else %}
@@ -7,3 +7,4 @@
 		{% endif %}
 	{% endfor %}
 </nav>
+ 
