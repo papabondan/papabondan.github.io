@@ -14,6 +14,11 @@ description: "
   </p>
  
 "
+nav : 
+  - title: home
+    url:""
+  - title: about
+    url:"/about"
 email: murdani.bondan.bm@gmail.com
 contact:
   - title: linkedin
