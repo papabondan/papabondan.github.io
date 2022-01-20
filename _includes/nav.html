@@ -1,5 +1,5 @@
 <nav>
-	{% for item in site.data.nav.list %}
+	{% for item in site.data.nav %}
 		{% if item.target %}
 			<a href="#!" onclick="openLink('{{site.baseurl}}/{{item.url}}')">{{item.title}}</a>
 		{% else %}
