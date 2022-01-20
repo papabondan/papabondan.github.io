@@ -2,6 +2,9 @@ name: Bondan Murdani Soleh
 dp: https://avatars.githubusercontent.com/u/42795436?v=4
 description: "
   <p>
+    Home | About
+  </p>
+  <p>
     Karyawan PT Sygma Daya Insani.
   </p>
   <br/>
@@ -14,7 +17,7 @@ description: "
   </p>
  
 "
-nav : 
+nav: 
   "<p>Home | About</p>"
 email: murdani.bondan.bm@gmail.com
 contact:
