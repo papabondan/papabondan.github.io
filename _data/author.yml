@@ -4,6 +4,7 @@ description: "
   <p>
     Home | About
   </p>
+  <br/>
   <p>
     Karyawan PT Sygma Daya Insani.
   </p>
@@ -17,8 +18,6 @@ description: "
   </p>
  
 "
-nav: 
-  "<p>Home | About</p>"
 email: murdani.bondan.bm@gmail.com
 contact:
   - title: linkedin
