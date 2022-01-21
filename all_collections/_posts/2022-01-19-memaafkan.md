@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memaafkan yang Salah
+title: Memaafkan
 date: 2022-01-19
 categories: ["catatan"]
 ---
