@@ -45,6 +45,10 @@ main {
   padding: 3rem 0;
 }
 
+nav {
+   font-size: 3rem;
+   color: var(--white-1);
+}
 /* header */
 
 #bio {
