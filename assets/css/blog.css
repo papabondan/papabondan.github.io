@@ -46,7 +46,7 @@ main {
 }
 
 nav {
-   font-size: 3rem;
+   font-size: 1.2rem;
    color: var(--white-1);
 }
 /* header */
@@ -149,6 +149,9 @@ nav {
     row-gap: 1.2rem;
   }
 }
+nav {
+   font-size: 1.2rem;
+   color: var(--white-1);
 
 @media screen and (max-width: 350px) {
   #img-wrapper img {
