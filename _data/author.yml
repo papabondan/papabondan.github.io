@@ -2,7 +2,9 @@ name: Bondan Murdani Soleh
 dp: https://avatars.githubusercontent.com/u/42795436?v=4
 description: "
   <p>
-    Home | About
+   <a href="{{ site.baseurl }}/">Home</a> | 
+   <a href="{{ site.baseurl }}/about">About</a> | 
+   <a href="{{ site.baseurl }}/contact">Contact</a>
   </p>
   <br/>
   <p>
