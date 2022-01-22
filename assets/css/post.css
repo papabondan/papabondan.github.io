@@ -48,6 +48,10 @@ main {
   max-width: 650px;
   padding: 3rem 0 4rem 0;
 }
+nav {
+   font-size: 3rem;
+   color: var(--white-1);
+}
 .article {
   margin-bottom: 3rem;
 }
