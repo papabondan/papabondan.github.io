@@ -45,7 +45,7 @@ main {
   padding: 3rem 0;
 }
 
-nav {
+#nav {
    font-size: 1.2rem;
    color: var(--white-1);
 }
