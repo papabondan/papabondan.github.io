@@ -3,7 +3,7 @@ layout: post
 title: Contact
 ---
 
-* Email: [emailpapabondan@gmail.com](mailto:murdani.bondan.bm@gmail.com)
+* Email: [emailpapabondan](mailto:murdani.bondan.bm@gmail.com)
 
 
 ---
@@ -15,6 +15,7 @@ title: Contact
 > Surabaya
 >
 > Indonesia
+> 
 ---
 
 ## Social
