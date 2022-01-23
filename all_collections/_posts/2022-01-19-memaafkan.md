@@ -8,7 +8,7 @@ categories: ["catatan"]
 ## Kisah Memaafkan
 Wahai anakku sebelumnya aku memintamu untuk segera mungkin menyadari kesalahanmu, meminta maaf, menerima nasihat serta menggantinya dengan kebaikan.
 
-Ada juga kisah kisah yang sangat populer tentang memaafkan orang lain. Yaitu kisah Rasululah Sholallahu'alayhi wasallam yang tidak diterima oleh penduduk Thaif. Bukan hanya dengan cacian tapi juga lemparan batu sehinga beliau terluka parah.
+Ada juga kisah-kisah yang sangat populer tentang memaafkan orang lain. Yaitu kisah Rasululah Sholallahu'alayhi wasallam yang tidak diterima oleh penduduk Thaif. Bukan hanya dengan cacian tapi juga lemparan batu sehinga beliau terluka parah.
 
 Lalu apa yang sikap Rasulullah Sholallahu'alayhi wasallam? Beliau mendapat berita dari malaikat Jibril. Allah سُبْحَانَهُ وَ تَعَالَى telah melihat penderitaan beliau, dan memerintahkan para malaikat penjaga gunung untuk siap atas perintah Beliau dan siap melemparkan Gunung itu ke atas umat Beliau.
 
