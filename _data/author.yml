@@ -1,12 +1,11 @@
 name: Bondan Murdani Soleh
 dp: https://avatars.githubusercontent.com/u/42795436?v=4
-description: "
-  <p>
+nav:" <p>
   <a href='https://papabondan.github.io/about' target='_blank'>About</a> | 
   <a href='https://papabondan.github.io/contact' target='_blank'>Contact</a> | 
   <a href='https://papabondan.github.io/sitemaps' target='_blank'>Sitemap</a>
-  </p>
-  <br/>
+  </p>"
+description: "
   <p>
     Karyawan PT Sygma Daya Insani.
   </p>
