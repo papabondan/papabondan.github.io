@@ -4,6 +4,7 @@ title: Contact
 ---
 
 ---
+## Email
 
 * Email: [emailpapabondan](mailto:murdani.bondan.bm@gmail.com)
 
@@ -17,10 +18,11 @@ title: Contact
 >
 > Indonesia
 > 
+
 ---
 
 ## Social
 
 1. [Facebook](#)
 2. [Twitter](#)
-3. [Google+](#)
+3. [IG](#)
