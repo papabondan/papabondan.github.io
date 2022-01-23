@@ -3,8 +3,9 @@ layout: post
 title: Contact
 ---
 
-* Email: [emailpapabondan](mailto:murdani.bondan.bm@gmail.com)
+---
 
+* Email: [emailpapabondan](mailto:murdani.bondan.bm@gmail.com)
 
 ---
 
