@@ -15,12 +15,12 @@
             {% endfor %}
           </div>
         </div>
-        
+        <div class="content">{% include toc.html html=content %}</div>
         <div class="content">{{content}}</div>
         
         
       </section>
-      <p>&copy; 2022 - {{ 'now' | date: "%Y" }} | {{site.title}}</p>
+      {% include footer.html %}
     </main>
     {% include category-modal.html%}
   </body>
