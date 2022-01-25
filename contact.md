@@ -8,7 +8,7 @@ title: Contact
 
 * Email: [emailpapabondan](mailto:murdani.bondan.bm@gmail.com)
 
----
+
 
 ## Mailing Address
 
@@ -19,7 +19,7 @@ title: Contact
 > Indonesia
 > 
 
----
+
 
 ## Social
 
