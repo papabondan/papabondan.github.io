@@ -99,6 +99,7 @@ main {
 .pagination .previous .next a {
   color: cyan;
   border-bottom: 1px solid cyan;
+}
 
 .articles .article .article-title,
 .articles .article .article-title a {
