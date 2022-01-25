@@ -67,6 +67,8 @@ main {
   color: cyan;
   border-bottom: 1px solid cyan;
 }
+
+}
 #social-wrapper {
   margin-top: 1rem;
 }
@@ -94,6 +96,10 @@ main {
   border-radius: 15px;
   transition: all 0.2s ease-in-out;
 }
+.pagination a {
+  color: cyan;
+  border-bottom: 1px solid cyan;
+
 .articles .article .article-title,
 .articles .article .article-title a {
   color: var(--white-2);
