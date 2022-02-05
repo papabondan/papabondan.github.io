@@ -5,4 +5,5 @@ gem "jemoji"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
-gem "jekyll-paginate", 
+gem "jekyll-paginate"
+gem "jekyll-google-search-console-verification-file"
