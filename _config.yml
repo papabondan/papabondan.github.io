@@ -19,6 +19,7 @@ plugins:
 paginate: 4
 paginate_path: "/page:num/"
 
+ganalytics: UA-138225193-1
 google_search_console:
        verification_file_code: 54b942591f95001
 google_site_verification: MlRRgSGk4N__3IfNNOPBntHv5Go9dl7hOcreAKPQHlo
