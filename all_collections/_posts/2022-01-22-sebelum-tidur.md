@@ -13,6 +13,7 @@ Biasakan sebelum tidur kita menggosok gigi, agar kesehatan gigi ini terawat deng
 **عَنْ حُذَيفَةَ ، وَأَبِي ذَرٍّ رَضِيَ اللهُ عَنْهُمَا ، قَالاَ : كَانَ رَسُوْلُ اللهِ – صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ – إِذَا أوَى إِلَى فِرَاشِهِ ، قَالَ : (( بِاسْمِكَ اللَّهُمَّ أَحْيَا وَأموتُ )) وَإذَا اسْتَيقَظَ قَالَ :(( الحَمْدُ للهِ الَّذِي أَحْيَانَا بعْدَ مَا أماتَنَا وإِلَيْهِ النُّشُورُ )) . رَوَاهُ البُخَارِي**
 
 > Dari Hudzaifah dan Abu Dzarr radhiyallahu ‘anhuma, mereka berdua berkata, “Apabila Rasulullah shallallahu ‘alaihi wa sallam ketika hendak tidur, beliau mengucapkan, ‘BISMIKA ALLOOHUMMA AHYAA WA AMUUT’ (dengan menyebut nama-Mu Ya Allah, aku hidup dan aku mati) dan apabila beliau bangun, beliau mengucapkan, ‘ALHAMDU LILLAHILLADZI AHYAANAA BA’DA MAA AMAATANAA WA ILAIHIN NUSYUUR’ (segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami dan hanya kepada-Nya kami kembali).” (HR. Bukhari) [HR. Bukhari, no. 6314 dan Muslim, no. 2711]
+
 ### Membaca Al Fatihah
 ### Membaca Awal Surat Al Baqoroh
 ### Membaca Ayat Kursi
