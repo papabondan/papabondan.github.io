@@ -24,11 +24,11 @@
 }
 html,
 body {
-  color: var(--white-2);
+  color: var(--white-1);
   background-color: var(--white-2);
   font-family: "JetBrains Mono", monospace;
   line-height: 2rem;
-  background-color: var(--gray-5);
+  background-color: var(--white-1);
 }
 header {
   padding: 2rem 0 4rem 0;
@@ -37,7 +37,7 @@ header .site-title {
   font-size: 4rem;
   font-weight: bolder;
   line-height: 110%;
-  color: var(--white-1);
+  color: var(--gray-6);
 }
 main {
   margin: 0 auto;
@@ -92,7 +92,7 @@ main {
 }
 .articles .article {
   padding: 2rem;
-  background: var(--gray-3);
+  background: var(--gray-6);
   border-radius: 15px;
   transition: all 0.2s ease-in-out;
 }
@@ -108,7 +108,7 @@ a.previous {
 
 .articles .article .article-title,
 .articles .article .article-title a {
-  color: var(--white-2);
+  color: var(--gray-6);
   font-weight: 100;
   font-style: italic;
   font-size: 1.4rem;
